@@ -1,0 +1,25 @@
+{
+  "name": "botcoin-server",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node botcoin"
+  },
+  "dependencies": {
+    "array-sort": "^1.0.0",
+    "async": "^2.6.0",
+    "bcrypt-nodejs": "0.0.3",
+    "crypto": "^1.0.1",
+    "dotenv": "^4.0.0",
+    "https": "^1.0.0",
+    "moment": "^2.20.1",
+    "mysql": "^2.15.0",
+    "node-bittrex-api": "^0.8.1",
+    "numeral": "^2.0.6",
+    "request": "^2.83.0",
+    "string.prototype.endswith": "^0.2.0",
+    "string.prototype.startswith": "^0.2.0",
+    "telegraf": "^3.17.3",
+    "telegraf-command-parts": "^1.0.3"
+  }
+}
